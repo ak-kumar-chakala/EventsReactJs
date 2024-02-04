@@ -1,0 +1,29 @@
+.register-para {
+  text-align: center;
+}
+
+.register-image {
+  height: 150px;
+  width: 300px;
+  align-self: center;
+}
+
+.register-image-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.register-status-head {
+  text-align: center;
+  font-size: 25px;
+}
+
+.register-status-para {
+  text-align: center;
+}
+
+.register-button {
+  background-color: blue;
+}

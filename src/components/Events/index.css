@@ -1,0 +1,36 @@
+.events-container {
+  height: 100vh;
+  background-color: #475569;
+  padding: 30px;
+  overflow-y: scroll;
+}
+
+.head-1 {
+  color: white;
+}
+
+.ul-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.home-container {
+  display: flex;
+}
+
+.registration-container {
+  background-color: white;
+  width: 800px;
+  padding: 10px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.registration-text {
+  text-align: center;
+  font-weight: bold;
+  color: #2dd4bf;
+}
